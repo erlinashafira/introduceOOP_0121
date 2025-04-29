@@ -20,4 +20,6 @@ int main() {
     mhs.nim = 20240140121;
     mhs.nama = "erlina";
     mhs.nilai = 90;
+
+    mhs.printData();
 }
