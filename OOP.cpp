@@ -14,3 +14,10 @@ void printData(){
 }
 
 };
+int main() {
+    mahasiswa mhs;
+
+    mhs.nim = 20240140121;
+    mhs.nama = "erlina";
+    mhs.nilai = 90;
+}
